@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>生成图片</string>
+		<key>class</key>
+		<string>CreateImageVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>绘制图片</string>
+		<key>class</key>
+		<string>DrawImageVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>绘制水印</string>
+		<key>class</key>
+		<string>WaterImageVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>截屏</string>
+		<key>class</key>
+		<string>CutScreenVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>擦除</string>
+		<key>class</key>
+		<string>WipeViewVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>裁剪</string>
+		<key>class</key>
+		<string>CutImageVC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>特定性状的裁剪</string>
+		<key>class</key>
+		<string>MaskCutVC</string>
+	</dict>
+</array>
+</plist>

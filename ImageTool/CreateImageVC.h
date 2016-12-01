@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  CreateImgaeVC.h
 //  ImageTool
 //
 //  Created by my on 2016/11/22.
 //  Copyright © 2016年 my. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "BaseViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface CreateImageVC : BaseViewController
 
 @end
-
